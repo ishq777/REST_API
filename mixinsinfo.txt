@@ -1,0 +1,16 @@
+mixins -> allow for common functionalities
+
+
+list model mixin
+
+create model mixin
+
+retreive model mixin
+
+update model mixin
+
+destroy model mixin
+
+
+
+generic -> handles incoming http requests, as well as defines how output is structured
